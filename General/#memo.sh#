@@ -1,0 +1,20 @@
+File Edit Options Buffers Tools Sh-Script Help                                  
+echo "top : affiche les processus en cours et leur utilisation matrielle"
+echo "ps aux : afficher tout les processus en cours"
+echo "ps : afficher les processus que j'exectue"
+echo "compter : compte le nomre d'occurence d'un mot dans un ficher texte (ex :\
+ compte apple Mac.txt)"
+echo "ssh romain.gallerne@etu.umontpellier.fr@<nom_de_la_machine> : se connecte\via ssh une machine distante"
+echo "          ajouter -X permet d'executer les logiciels depuis la machine ph\
+ysique"
+echo "scp [[romain.gallerne@etu.umontpellier.fr@]<machine_source> : ]<emplaceme\
+nt source> [[romain.gallerne@etu.umontpellier.fr@]<machine_cible> : ]<emplaceme\
+nt cible> : copie le fichier entre des machines distantes"
+echo "logout : se deconnecte de la machine virtuelle"
+echo "ping <machine> : information sur la connection Internet d'une machine"
+echo "git status : affiche le status du projet git"
+echo "git log : affiche les modification du projet git"
+echo "git add : ajoute un fichier la liste des fichier enregistrer dans git\
+"
+echo "gitsave 'commentaire' : envoie le fichier dans git avec un commentaire"
+echo ''
